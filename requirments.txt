@@ -1,0 +1,11 @@
+langgraph
+langchain
+ipykernel
+dotenv
+langchain_google_genai
+google-generativeai
+langchain_google_genai 
+streamlit
+langchain_core
+langchain-tool
+pip install langgraph-checkpoint-sqlite
