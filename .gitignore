@@ -1,7 +1,7 @@
 chatbot.db
 chatbot.db-shm
 chatbot.db-wal
-*.env
+
 LangGraph_beckend.py
 venv/
 __pycache__/
